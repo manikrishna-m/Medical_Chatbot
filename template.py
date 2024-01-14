@@ -12,7 +12,7 @@ list_of_files = [
     '.env',
     'setup.py',
     'app.py',
-    # 'research/trails.ipynb'
+    'research/trails.ipynb'
     'store_index.py',
     'static/.gitkeep',
     'templates/chat.html'
